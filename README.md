@@ -1,2 +1,1 @@
-# student-performance-detector
-PROJECT CATEGORY
+# student_performance_predictor
